@@ -22,4 +22,3 @@ Este projeto envolve a criação de um código em Python e Jupyter que analisa u
 
 ## Conclusão
 Este projeto permite uma melhor compreensão dos fatores que influenciam o cancelamento de clientes, auxiliando na tomada de decisões estratégicas para retenção de clientes.
-# taxa-de-cancelamento
